@@ -1,4 +1,4 @@
-import './assets/style.css';
+import './assets/style.scss';
 import image from './assets/bnb.png';
 const section = document.createElement('div');
 document.body.appendChild(section);
